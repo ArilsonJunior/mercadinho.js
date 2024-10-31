@@ -17,7 +17,7 @@ do {
     console.log("----menu----\n" +
         "[1] mostrar estoque\n" +
         "[2] adicionar item no estoque\n" +
-        "[3] remover item do carrinho\n" +
+        "[3] remover item do estoque\n" +
         "[4] sair");
 
     let escolha = parseInt(prompt("Qual aba deseja abrir?: "));
